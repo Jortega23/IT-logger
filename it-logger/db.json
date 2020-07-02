@@ -20,6 +20,13 @@
       "tech": "Jane Moss",
       "date": "2020-07-02T05:49:50.402Z",
       "id": 3
+    },
+    {
+      "message": "Check connection on workstation 009",
+      "attention": false,
+      "tech": "Jake Jones",
+      "date": "2020-07-02T15:38:34.096Z",
+      "id": 4
     }
   ],
   "techs": [
@@ -37,6 +44,11 @@
       "id": 3,
       "firstName": "John",
       "lastName": "Doe"
+    },
+    {
+      "firstName": "Jason",
+      "lastName": "Williams",
+      "id": 4
     }
   ]
 }
